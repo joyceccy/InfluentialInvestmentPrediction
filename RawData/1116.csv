@@ -1,4 +1,4 @@
-﻿nameOfIssuer,titleOfClass,cusip,value,shrsOrPrnAmt/sshPrnamt,shrsOrPrnAmt/sshPrnamtType,investmentDiscretion,otherManager,votingAuthority/Sole,votingAuthority/Shared,votingAuthority/None,putCall
+﻿nameOfIssuer,titleOfClass,cusip,value,sshPrnamt,sshPrnamtType,investmentDiscretion,otherManager,Sole,Shared,None,putCall
 1 800 FLOWERS COM,CMN,68243Q106,780,85013,SH,DFND,1,85013,0,0,
 1 800 FLOWERS COM,CMN,68243Q106,1,100,SH,DFND,1,100,0,0,Call
 1ST SOURCE CORP,CMN,336901103,526,14723,SH,DFND,1,14723,0,0,

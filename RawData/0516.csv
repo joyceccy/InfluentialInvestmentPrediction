@@ -1,4 +1,4 @@
-﻿nameOfIssuer,titleOfClass,cusip,value,shrsOrPrnAmt/sshPrnamt,shrsOrPrnAmt/sshPrnamtType,investmentDiscretion,otherManager,votingAuthority/Sole,votingAuthority/Shared,votingAuthority/None,putCall
+﻿nameOfIssuer,titleOfClass,cusip,value,sshPrnamt,sshPrnamtType,investmentDiscretion,otherManager,Sole,Shared,None,putCall
 1 800 FLOWERS COM,CMN,68243Q106,232,29379,SH,DFND,1,29379,0,0,
 1 800 FLOWERS COM,CMN,68243Q106,12,1500,SH,DFND,1,1500,0,0,Call
 1ST CENTURY BANCSHARES INC,CMN,31943X102,124,11344,SH,DFND,1,11344,0,0,

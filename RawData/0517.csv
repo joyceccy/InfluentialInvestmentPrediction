@@ -1,4 +1,4 @@
-﻿nameOfIssuer,titleOfClass,cusip,value,shrsOrPrnAmt/sshPrnamt,shrsOrPrnAmt/sshPrnamtType,investmentDiscretion,otherManager,votingAuthority/Sole,votingAuthority/Shared,votingAuthority/None,putCall
+﻿nameOfIssuer,titleOfClass,cusip,value,sshPrnamt,sshPrnamtType,investmentDiscretion,otherManager,Sole,Shared,None,putCall
 180 DEGREE CAP CORP,CMN,68235B109,18,12630,SH,DFND,1,12630,0,0,
 21VIANET GROUP INC,CMN,90138A103,126,22987,SH,DFND,1,22987,0,0,
 2U INC,CMN,90214J101,3362,84760,SH,DFND,1,84760,0,0,

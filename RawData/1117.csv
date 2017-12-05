@@ -1,4 +1,4 @@
-﻿nameOfIssuer,titleOfClass,cusip,value,shrsOrPrnAmt/sshPrnamt,shrsOrPrnAmt/sshPrnamtType,investmentDiscretion,otherManager,votingAuthority/Sole,votingAuthority/Shared,votingAuthority/None,putCall
+﻿nameOfIssuer,titleOfClass,cusip,value,sshPrnamt,sshPrnamtType,investmentDiscretion,otherManager,Sole,Shared,None,putCall
 1ST SOURCE CORP,CMN,336901103,825,16244,SH,DFND,1,16244,0,0,
 21VIANET GROUP INC,CMN,90138A103,71,12553,SH,DFND,1,12553,0,0,
 2U INC,CMN,90214J101,11160,199149,SH,DFND,1,199149,0,0,
